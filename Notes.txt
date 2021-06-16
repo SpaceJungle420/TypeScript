@@ -1,0 +1,5 @@
+(Typescript)
+- IDE: Visual Studio Code
+- To start just create a .ts file (ex. example.ts)
+- tsc example.ts	// compiles typescript to javascript
+- node example.js	// runs the example.js
